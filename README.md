@@ -8,9 +8,10 @@ Out of the entire 7.7 billion people of the world as of April 2019, it is estima
 ![CNN]()
 
 #### Accuracy Curve:
-![Accuracy Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Accuracy.png) ![Loss Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Loss.png)
+![Accuracy Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Accuracy.png) 
 
 #### Loss Curve:
+![Loss Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Loss.png)
 
 
 ## Program Execution Steps
