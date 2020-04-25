@@ -3,8 +3,8 @@ Out of the entire 7.7 billion people of the world as of April 2019, it is estima
 
 ## Steps to run the program
 
-   **Step 1:** clone the repository using git clone "git address"
-   **Step 2:** Install the packages using pip install -r requirements.txt
+   **Step 1:** clone the repository using git clone "git address".
+   **Step 2:** Install the packages using pip install -r requirements.txt.
    **Step 3:** Train the model using the command: _python model.py_.
    **Step 4:** Run the application using the command: _python camera.py_.
         
