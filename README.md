@@ -3,7 +3,7 @@ Out of the entire 7.7 billion people of the world as of April 2019, it is estima
 
 ## Visualization of Model Used
 
-![Graph of Accuracy](/Performance/accuracy.png)
+![Graph of Accuracy]
 ![Accuracy Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Accuracy.png)
 
 ## Program Execution Steps
