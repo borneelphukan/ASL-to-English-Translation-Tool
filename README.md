@@ -5,7 +5,7 @@ Out of the entire 7.7 billion people of the world as of April 2019, it is estima
 
 #### Conventional Neural Network Architecture used
 
-![CNN]()
+![CNN](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/CNN%20Architecture.png)
 
 #### Accuracy Curve:
 ![Accuracy Graph](https://github.com/borneelphukan/ASL-to-English-Translation-Tool/blob/master/Performance/Accuracy.png) 
